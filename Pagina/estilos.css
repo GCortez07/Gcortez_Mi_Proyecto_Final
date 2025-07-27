@@ -1,0 +1,61 @@
+/* estilos para el titulo*/
+#encabezado {
+  color: rgb(255, 0, 255);
+  font-size: 38px;
+  text-align: center;
+}
+
+/* estilos para el subtitulo*/
+h2 {
+  color: rgb(0, 38, 255);
+  font-size: 38px;
+  text-align: center;
+}
+h3 {
+  color: rgba(5, 6, 10, 0.603);
+  font-size: 28px;
+  text-align: left;
+}
+/* estilos para el parrafo*/
+p {
+  color: #1a1919;
+  font-size: 25px;
+  font-family: Georgia, serif;
+  line-height: 1.5;
+  text-align: justify;
+  padding: 40px;
+}
+/* estilos para el enlace como boton */
+a {
+  color: white;
+  background-color: #0077cc;
+  padding: 10px 15px;
+  text-decoration: none;
+  border-radius: 6px;
+  display: inline-block;
+  font-weight: bold;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.caja {
+  width: 380px;
+  padding: 40px;
+  border: 15px solid #0077cc;
+  margin: 25px;
+  font-size: 20px;
+  background-color: rgb(177, 238, 218);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri;
+  float: left;
+}
+
+.pie {
+  font-family: "My Soul", cursive;
+  color: #1a1919;
+  font-size: 30px;
+  font-style: normal;
+  text-align: center;
+  font-weight: bold;
+}
